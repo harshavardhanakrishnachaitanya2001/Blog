@@ -9,11 +9,12 @@ export default function Home() {
       {`
       button{
         margin-left:10px;
+        font-size:20px;
       }
       `}
     </style>
       <Head>
-        <title>Create Next App</title>
+        <title>G. H. Krishna Chaitanya</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -23,10 +24,10 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-        Projects done:<br />
-        <Link href="https://todoapplication-nu.vercel.app/"><button>Todo Application</button></Link>
-        <Link href="https://currymaker.vercel.app/"><button>Curry Maker</button></Link>
-        <Link href="https://expo.io/@kccodes/weatherapp"><button>Weather application(mobile)</button></Link>
+        <b>Projects made:</b><br />
+        <Link href="/todoApp"><button>Todo application</button></Link>
+        <Link href="https://currymaker.vercel.app/"><button>Curry maker application</button></Link>
+        <Link href="https://expo.io/@kccodes/weatherapp"><button>Weather application</button></Link>
         </p>
       </main>
     </div>
