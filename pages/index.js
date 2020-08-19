@@ -11,6 +11,13 @@ export default function Home() {
         margin-left:10px;
         font-size:20px;
       }
+      .aboutme{
+        text-align:center;
+      }
+      .about{
+        text-align:center;
+        font-size:20px;
+      }
       `}
     </style>
       <Head>
@@ -24,10 +31,15 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-        <b>Projects made:</b><br />
+        <b>Projects developed:</b><br />
         <Link href="/todoApp"><button>Todo application</button></Link>
-        <Link href="https://currymaker.vercel.app/"><button>Curry maker application</button></Link>
-        <Link href="https://expo.io/@kccodes/weatherapp"><button>Weather application</button></Link>
+        <Link href="/currymaker"><button>Curry maker application</button></Link>
+        <Link href="/weatherapp"><button>Weather application</button></Link>
+        </p>
+        <h1 className="aboutme">About</h1>
+        <p className="about">
+          I am G.H.Krishna Chaitanya, persuing my B.tech IIIrd year in MarriLaxman Reddy instute of technology and management. My goal in life is to become 
+          a good developer.
         </p>
       </main>
     </div>
