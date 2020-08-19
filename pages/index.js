@@ -38,8 +38,8 @@ export default function Home() {
         </p>
         <h1 className="aboutme">About</h1>
         <p className="about">
-          I am G.H.Krishna Chaitanya, persuing my B.tech IIIrd year in MarriLaxman Reddy instute of technology and management. My goal in life is to become 
-          a good developer.
+          I am G.H.Krishna Chaitanya, persuing my B.tech IIIrd year in MarriLaxman Reddy instute of technology and management. enthusiastic to React along 
+          with HTML, CSS, Bootstrap, React native and Nextjs
         </p>
       </main>
     </div>
