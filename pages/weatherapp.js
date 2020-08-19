@@ -17,10 +17,10 @@ const weatherapp = () => {
                 }
                 `}
             </style>
-            <h1>Weather forcast</h1>
+            <h1>Weather forecast</h1>
             <p>
             This is a mobile application created using react-native.<br />
-            <Link href="https://expo.io/@kccodes/weatherapp"><button>Weather forcast</button></Link>
+            <Link href="https://expo.io/@kccodes/weatherapp"><button>Weather forecast</button></Link>
             <Link href="/"><button>Home</button></Link>
             </p>
         </div>
