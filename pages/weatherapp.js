@@ -13,6 +13,7 @@ const weatherapp = () => {
                     font-size:25px;
                 }
                 button{
+                    font-size:15px;
                     margin-left:10px;
                 }
                 `}
