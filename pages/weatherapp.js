@@ -5,15 +5,16 @@ const weatherapp = () => {
             <style>
                 {`
                 h1{
-                    text-align:center;
-                    font-size:50px;
+                    margin: 0;
+                     font-size: 50px;
+                     text-align:center;
                 }
                 p{
                     text-align:center;
                     font-size:25px;
                 }
                 button{
-                    font-size:15px;
+                    font-size:20px;
                     margin-left:10px;
                 }
                 `}

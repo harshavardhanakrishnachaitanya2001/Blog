@@ -5,7 +5,7 @@ const currymaker= () => {
             <style>
                 {`
                 button{
-                    font-size:15px;
+                    font-size:20px;
                     margin-left:10px;
                 }
                 h1{
