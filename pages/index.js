@@ -18,6 +18,13 @@ export default function Home() {
         text-align:center;
         font-size:20px;
       }
+      img{
+        border-radius:50%;
+        height:120px;
+        margin-left:5px;
+        margin-top:4px;
+        border:2px solid black;
+      }
       `}
     </style>
       <Head>
@@ -28,6 +35,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>
           G.H.Krishna Chaitanya
+          <img src="https://avatars3.githubusercontent.com/u/68343068?s=460&u=df8a95d0d4979f2ddc67bb8a809c1f88a55470fc&v=4"/>
         </h1>
 
         <p className={styles.description}>
