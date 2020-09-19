@@ -44,7 +44,7 @@ export default function Home() {
         <Link href="/todoApp"><button>Todo application</button></Link>
         <Link href="/currymaker"><button>Curry maker application</button></Link>
         <Link href="/weatherapp"><button>Weather application</button></Link>
-        <Link href="https://anime-vert.vercel.app/"><button>Anime</button></Link>
+        <Link href="/Anime"><button>Anime</button></Link>
         </p>
         <h1 className="aboutme">About</h1>
         <p className="about">

@@ -7,6 +7,7 @@ const currymaker= () => {
                 button{
                     font-size:20px;
                     margin-left:10px;
+                    cursor:pointer;
                 }
                 h1{
                     margin: 0;

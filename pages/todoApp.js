@@ -16,6 +16,7 @@ const todoApp = () => {
                 button{
                     margin-left:10px;
                     font-size:20px;
+                    cursor:pointer;
                 }
             `}
         </style>
