@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Head from 'next/head'
 const weatherapp = () => {
     return (
         <div>
@@ -20,6 +21,9 @@ const weatherapp = () => {
                 }
                 `}
             </style>
+            <Head>
+                <title>Weather application</title>
+            </Head>
             <h1>Weather forecast</h1>
             <p>
             This is a mobile application created using react-native. This application fetches data from a remote weather api and renders it in a stylish manner on 

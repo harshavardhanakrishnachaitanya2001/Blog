@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Head from 'next/head'
 const currymaker= () => {
     return (
         <div>
@@ -20,6 +21,11 @@ const currymaker= () => {
                 }
                 `}
             </style>
+            <Head>
+                <title>
+                    Curry Maker
+                </title>
+            </Head>
             <h1>Curry Maker</h1>
             <p>
             This Curry Maker application is made using creact-react-app and styled using styled components. Here, react router is also used.<br />

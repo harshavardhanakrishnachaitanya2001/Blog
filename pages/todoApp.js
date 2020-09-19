@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Head from 'next/head'
 const todoApp = () => {
     return (
         <div>
@@ -20,6 +21,11 @@ const todoApp = () => {
                 }
             `}
         </style>
+        <Head>
+            <title>
+                Todo application
+            </title>
+        </Head>
         <h1>Todo Applicaiton</h1>
         <p>
         Todo application is a web application created using create-react-app. This app stores user input and renders that data along with the done button, which 

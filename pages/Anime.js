@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Head from 'next/head';
 function Anime(){
 return (
     <div>
@@ -20,6 +21,10 @@ return (
             }
             `}
         </style>
+        <Head>
+            <title>Anime</title>
+        </Head>
+
         <h1>Anime I Love</h1>
         <p>
             The website is made using nextjs with static file (image) serving. This site came out better than the other 2 web applications.
