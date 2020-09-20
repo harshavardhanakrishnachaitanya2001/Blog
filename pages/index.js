@@ -30,7 +30,7 @@ export default function Home() {
     </style>
       <Head>
         <title>G. H. Krishna Chaitanya</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="https://avatars3.githubusercontent.com/u/68343068?s=460&u=df8a95d0d4979f2ddc67bb8a809c1f88a55470fc&v=4" />
       </Head>
 
       <main className={styles.main}>
