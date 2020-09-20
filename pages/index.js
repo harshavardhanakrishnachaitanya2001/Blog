@@ -41,8 +41,10 @@ export default function Home() {
 
         <p className={styles.description}>
         <b>Projects developed:</b><br />
+        <Link href='/wordOfAdvice'><button>Word of advice</button></Link>
         <Link href="/todoApp"><button>Todo application</button></Link>
         <Link href="/currymaker"><button>Curry maker application</button></Link>
+        <Link href="/scoreBoard"><button>Score board</button></Link>
         <Link href="/weatherapp"><button>Weather application</button></Link>
         <Link href="/Anime"><button>Anime</button></Link>
         </p>
