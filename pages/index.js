@@ -48,9 +48,9 @@ export default function Home() {
         </p>
         <h1 className="aboutme">About</h1>
         <p className="about">
-          I am G.H.Krishna Chaitanya, pursuing my B.tech IIIrd year in MarriLaxman Reddy instute of technology and management. I am an enthusiastic 
-          front-end web developer, working primarily with React along with CSS, Bootstrap, React-native, context, git and Nextjs. I also enjoy working with 
-           java, C and python.
+          I am G.H.Krishna Chaitanya, pursuing my B.tech IIIrd year in Marri Laxman Reddy instute of technology and management. 
+          I am an enthusiastic front-end web developer, working primarily with Next.js along with CSS, Bootstrap, React-native, context, 
+          git and React. I also enjoy working with java, C and python.
         </p>
       </main>
     </div>
