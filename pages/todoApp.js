@@ -29,7 +29,7 @@ const todoApp = () => {
         <h1>Todo Applicaiton</h1>
         <p>
         Todo application is a web application created using create-react-app. This app stores user input and renders that data along with the done button, which 
-        when clicked removes the data<br />
+        when clicked removes the data. This is the first web application I created. Please bear with the styling.<br />
         <Link href="https://todoapplication-nu.vercel.app/"><button>Todo application</button></Link>
         <Link href="/"><button>Home</button></Link>
         </p>
