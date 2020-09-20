@@ -25,6 +25,7 @@ const currymaker= () => {
                 <title>
                     Curry Maker
                 </title>
+                <link rel='icon' href='/currymaker.png'/>
             </Head>
             <h1>Curry Maker</h1>
             <p>

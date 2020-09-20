@@ -23,6 +23,7 @@ return (
         </style>
         <Head>
             <title>Anime</title>
+            <link rel='icon' href='/anime.png'/>
         </Head>
 
         <h1>Anime I Love</h1>

@@ -25,6 +25,7 @@ const todoApp = () => {
             <title>
                 Todo application
             </title>
+            <link rel='icon' href='/todo.png'/>
         </Head>
         <h1>Todo Applicaiton</h1>
         <p>

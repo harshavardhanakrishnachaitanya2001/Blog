@@ -23,6 +23,7 @@ const weatherapp = () => {
             </style>
             <Head>
                 <title>Weather application</title>
+                <link rel='icon' href='/weatherApplication.png'/>
             </Head>
             <h1>Weather forecast</h1>
             <p>
