@@ -23,6 +23,7 @@ function scoreBoard(){
             </style>
             <Head>
                 <title>Score board</title>
+                <link href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css'/>
             </Head>
             <h1>Score Board</h1>
             <p>This is a react application which takes in as many players names and displayes them along with one increment and one 
