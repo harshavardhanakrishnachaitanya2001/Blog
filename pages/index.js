@@ -53,7 +53,7 @@ export default function Home() {
           I am G.H.Krishna Chaitanya, pursuing my B.tech IIIrd year in Marri Laxman Reddy instute of technology and management. 
           I am an enthusiastic front-end web developer, working primarily with Next.js along with CSS, Bootstrap, React-native, context, 
           git and React. I also enjoy working with java, C and python.<br />
-          I also have a Youtube channel where I explain all the concepts I know.<br />
+          I also have a Youtube channel where I explain all the concepts I know:<br />
           <Link href='https://www.youtube.com/channel/UCZv-HrgSN0qc92gEZqDC3sA'><a target='_blank'> K.C. codes</a></Link>
         </p>
     </div>
