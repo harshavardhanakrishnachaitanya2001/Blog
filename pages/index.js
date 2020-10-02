@@ -48,13 +48,16 @@ export default function Home() {
         <Link href="/weatherapp"><button>Weather application</button></Link>
         <Link href="/Anime"><button>Anime</button></Link>
         </p>
-        <h1 className="aboutme">About</h1>
+        <h1 className="aboutme">About me</h1>
         <p className="about">
           I am G.H.Krishna Chaitanya, pursuing my B.tech IIIrd year in Marri Laxman Reddy instute of technology and management. 
           I am an enthusiastic front-end web developer, working primarily with Next.js along with CSS, Bootstrap, React-native, context, 
           git and React. I also enjoy working with java, C and python.<br />
-          I also have a Youtube channel where I explain all the concepts I know:<br />
-          <Link href='https://www.youtube.com/channel/UCZv-HrgSN0qc92gEZqDC3sA'><a target='_blank'> K.C. codes</a></Link>
+          I also have a Youtube channel where I explain all the concepts I know:
+          <Link href='https://www.youtube.com/channel/UCZv-HrgSN0qc92gEZqDC3sA'><a target='_blank'> K.C. codes</a></Link><br />
+          <br />
+          <h2>Contact me</h2>
+          You can contact me via twitter <a href='https://twitter.com/Harsha03751437' target='_blank'>@harsha</a>, on instagram <a href='https://www.instagram.com/harshavardhan_kc/' target='_blank'>@harshavardhan_kc</a> and on faceBook <a href='https://www.facebook.com/profile.php?id=100009945935184'>@Harshavardhan</a>.
         </p>
     </div>
   )
