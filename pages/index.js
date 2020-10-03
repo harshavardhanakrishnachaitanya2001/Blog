@@ -47,6 +47,7 @@ export default function Home() {
         <Link href="/scoreBoard"><button>Score board</button></Link>
         <Link href="/weatherapp"><button>Weather application</button></Link>
         <Link href="/Anime"><button>Anime</button></Link>
+        <Link href="/svelteTodo"><button>Todo application: Mark II</button></Link>
         </p>
         <h1 className="aboutme">About me</h1>
         <p className="about">
