@@ -29,7 +29,8 @@ const todoApp = () => {
         <h1>Todo Applicaiton: Mark II</h1>
         <p>
         This todo application is built using sveltejs, a js framework. This website has a way to clear the entair list
-        (an 'empty list' button).Unlike the last one, insted of buttons beside every task, check boxes are used so that it looks more like a todo list.<br />
+        (an 'empty list' button).Unlike the last one, insted of buttons beside every task, check boxes are used so 
+        that it looks like an actual todo list.<br />
         <Link href="https://todo-svelte-six.vercel.app/"><button>Todo application: Mark II</button></Link>
         <Link href="/"><button>Home</button></Link>
         </p>
