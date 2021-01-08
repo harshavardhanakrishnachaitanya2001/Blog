@@ -49,6 +49,7 @@ export default function Home() {
         <Link href="/Anime"><button>Anime</button></Link>
         <Link href="/svelteTodo"><button>Todo application: Mark II</button></Link>
         <Link href="/clockWork"><button>Clock work</button></Link>
+        <Link href="/message"><button>Messanger</button></Link>
         </p>
         <h1 className="aboutme">About me</h1>
         <p className="about">
