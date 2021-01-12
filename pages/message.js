@@ -11,10 +11,10 @@ const message= () => {
                     cursor:pointer;
                 }
                 h1{
-                     font-size: 50px;
+                     font-size: 4rem;
                      text-align:center;
                      margin-top:0px;
-                     margin-bottom:0px;
+                     margin-bottom:2px;
                 }
                 p{
                     text-align:center;

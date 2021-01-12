@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Head from 'next/head'
-const clockWork= () => {
+const contactDetails= () => {
     return (
         <div>
             <style>
@@ -12,9 +12,9 @@ const clockWork= () => {
                 }
                 h1{
                      font-size: 4rem;
-                     text-align:center;
                      margin-top:0px;
                      margin-bottom:2px;
+                     text-align:center;
                 }
                 p{
                     text-align:center;
@@ -24,18 +24,17 @@ const clockWork= () => {
             </style>
             <Head>
                 <title> 
-                    Clock work
+                    Cotact details
                 </title>
             </Head>
-            <h1>Clock work</h1>
+            <h1>Contact details</h1>
             <p>
-            This is a web application created using svelte.js which shows time in hours, minutes and seconds as well.
-            In this application the time can be set manually. If not set, it will start at 12 hours and 0 minutes. 
-            <br />Please take a look<br />
-            <Link href="https://clock-app-with-svelte-js.vercel.app/"><button>Clock work</button></Link>
+            This is a web app created using next.js, which receives user's details like name, age, phone number, age and date of birth and displayes them in the same page<br />
+            Please have a look at it here:<br />
+            <Link href="https://contacts-with-next.vercel.app/"><button>Contact details</button></Link>
             <Link href="/"><button>Home</button></Link>
             </p>
         </div>
     )
 }
-export default clockWork;
+export default contactDetails;

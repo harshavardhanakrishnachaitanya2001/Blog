@@ -11,8 +11,9 @@ return (
                 cursor:pointer;
             }
             h1{
-                margin:0;
-                font-size:50px;
+                margin-top:0px;
+                margin-bottom:2px;
+                font-size:4rem;
                 text-align:center;
             }
             p{
