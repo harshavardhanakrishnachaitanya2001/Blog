@@ -29,7 +29,7 @@ const contactDetails= () => {
             </Head>
             <h1>Contact details</h1>
             <p>
-            This is a web app created using next.js, which receives user's details like name, age, phone number, age and date of birth and displayes them in the same page<br />
+            This is a single page web app created using next.js, which receives user's details like name, age, phone number, age and date of birth and displayes them in the same page<br />
             Please have a look at it here:<br />
             <Link href="https://contacts-with-next.vercel.app/"><button>Contact details</button></Link>
             <Link href="/"><button>Home</button></Link>
