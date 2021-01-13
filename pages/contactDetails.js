@@ -32,7 +32,8 @@ const contactDetails= () => {
             This is a single page web app created using next.js, which receives user's details like name, age, phone number, age and date of birth and displayes them in the same page<br />
             Please have a look at it here:<br />
             <Link href="https://contacts-with-next.vercel.app/"><button>Contact details</button></Link>
-            <Link href="/"><button>Home</button></Link>
+            <Link href="/"><button>Home</button></Link><br />
+            Trying to make this a two page web app where in, the home page receives data via the form and the second page renders that information.
             </p>
         </div>
     )
